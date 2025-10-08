@@ -1,0 +1,41 @@
+Actividades de Repaso 1er Cuatrimestre
+
+1) En una verdulería se desea contar las manzanas que hayan ingresado en la mañana. Por cada caja 
+hay 24 manzanas.
+Pensar/ realizar un algoritmo que muestre por consola cuántas manzanas habrían en caso de tener:
+    a) 5 cajas.
+    b) 10 cajas.
+    c) 20 cajas.
+
+2) En una despensa se desea saber cuántas ganancias generan las bolsas de gomitas, los jugos y los 
+alfajores que venden en un día. Sabiendo que cada bolsa sale $20, cada jugo $25 y cada alfajor $32.
+Realizar un algoritmo que:
+    a) Pida sus respectivas cantidades.
+    b) Muestre las ganancias de cada uno en consola.
+    c) Muestre las ganancias totales que generan juntos.
+
+3) En una concesionaria un usuario debe pagar su auto, sin embargo la concesionaria está festejando 
+su aniversario por lo que todo auto que tenga un valor mayor a $20.000 recibirá un 15% de descuento.
+    a) Pedir el precio del auto y mostrar en consola el precio final.
+    b) Calcular cuánto costaría cada una de sus cuotas si se paga con 12% sin interés.
+
+
+
+
+
+Inicializamos git
+- git init
+
+Configuramos credenciales
+- git config --global user.name nombreUsuario
+- git config --global user.email correoElectronico
+
+Guardar cambios
+- git add .
+
+Agregamos mensaje
+- git commit -m "Repaso de algoritmos resolutivos con condicionales, prompts, funciones simples"
+
+Subimos cambios
+- git push
+
