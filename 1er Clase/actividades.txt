@@ -18,24 +18,3 @@ Realizar un algoritmo que:
 su aniversario por lo que todo auto que tenga un valor mayor a $20.000 recibirá un 15% de descuento.
     a) Pedir el precio del auto y mostrar en consola el precio final.
     b) Calcular cuánto costaría cada una de sus cuotas si se paga con 12% sin interés.
-
-
-
-
-
-Inicializamos git
-- git init
-
-Configuramos credenciales
-- git config --global user.name nombreUsuario
-- git config --global user.email correoElectronico
-
-Guardar cambios
-- git add .
-
-Agregamos mensaje
-- git commit -m "Repaso de algoritmos resolutivos con condicionales, prompts, funciones simples"
-
-Subimos cambios
-- git push
-

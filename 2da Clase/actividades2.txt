@@ -1,0 +1,19 @@
+Actividades de Repaso del 1er Cuatrimestre
+
+1) Crear un código que pida al usuario que ingrese una contraseña. Luego, pedir al usuario que confirme 
+su contraseña -> CONDICIONAL.
+    a) Si al confirmar dicha contraseña es diferente de la ingresada anteriormente, mostrar una alerta
+    con el mensaje "Contraseña incorrecta, vuelva a intentarlo".
+    b) Si al confirmar la contraseña es correcta e igual, mostrar una alerta con el mensaje "Contraseña 
+    correcta" y finalizar el código.
+
+2) Un usuario desea saber el momento en el que sus ventas superen los $5000 -> REPETITIVA.
+Realizar un algoritmo que pida:
+    a) Cantidad de dinero de cada venta.
+    b) Contar la cantidad de ventas ingresadas hasta que cumpla la meta.
+    c) Una vez lograda la meta, mostrar un mensaje con una alerta que diga "Meta cumplida".
+
+3) Realizar un algoritmo que pida la cantidad de transferencias realizadas en una despensa.
+    a) Por cada transacción se desea saber la cantidad de dinero generado.
+    b) Y al final mostrar el total recaudado con todas las transferencias.
+    c) Mostrar la transacción más alta y su número de transferencia -> (id / índice).
